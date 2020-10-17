@@ -1,2 +1,2 @@
 # hangmanGame
- 1st year game with python
+ Simple game with python
